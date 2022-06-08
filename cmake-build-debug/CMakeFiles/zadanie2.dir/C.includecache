@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Desktop/DSA/zadanie2/R&B_from_net.h
+
+C:/Users/marti/Desktop/DSA/zadanie2/hash_chaining.c
+hash_chaining.h
+C:/Users/marti/Desktop/DSA/zadanie2/hash_chaining.h
+stdlib.h
+-
+
+C:/Users/marti/Desktop/DSA/zadanie2/hash_chaining.h
+
+C:/Users/marti/Desktop/DSA/zadanie2/main.c
+my_avl.h
+C:/Users/marti/Desktop/DSA/zadanie2/my_avl.h
+R&B_from_net.h
+C:/Users/marti/Desktop/DSA/zadanie2/R&B_from_net.h
+hash_chaining.h
+C:/Users/marti/Desktop/DSA/zadanie2/hash_chaining.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+limits.h
+-
+
+C:/Users/marti/Desktop/DSA/zadanie2/my_avl.h
+stdlib.h
+-
+
